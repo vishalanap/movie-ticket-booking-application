@@ -1,7 +1,7 @@
 ### Movie Booking Application
 
 * Basic application useful for understanding the python tkinter library and SQL.
-* Options available on UI: 
+#### Options available on UI: 
 
     1. Insert new movie.
     2. Display all records.
