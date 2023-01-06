@@ -15,9 +15,10 @@
 
 <hr>
 <p align="center">
-![Example](images/1.png)
-
-![Example1](images/2.png)
+    
+    ![Example](images/1.png)
+    
+    ![Example1](images/2.png)
 </p>
 <hr>
 
