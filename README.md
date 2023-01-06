@@ -14,12 +14,9 @@
     9. Exit
 
 <hr>
-<p align="center">
-    
-    <img src="./images/1.png">
-    
-    <img src="images/2.png">
-</p>
+
+![example](images/1.png)
+![example1](images/2.png)
 <hr>
 
 ### Pre-requisites
