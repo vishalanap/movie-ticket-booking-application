@@ -67,6 +67,7 @@ class MovieBooker:
 				if a[0][0] !=  0:
 					backend.book_movies(Movie_ID.get(),Movie_Name.get())
 					display_data()
+					tkinter.messagebox.showinfo("Booking Status", "Your Show is Booked.\nENJOY the show :)")
 				else:
 					tkinter.messagebox.showwarning("Booking Status", "Seats are NOT available.\nPlease Book Another Show.")
 
